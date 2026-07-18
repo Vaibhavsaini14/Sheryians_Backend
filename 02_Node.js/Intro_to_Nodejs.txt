@@ -1,0 +1,17 @@
+Prog. language X
+technology X
+Framework X
+library X
+// node js -----> JS runtime environment
+
+js se backend nhi bn skta as no functionalities present
+
+nodejs vo js wrapper and chrome v8 engine ka combined part hai jo user ko help krta h js se server bnane m and run krne m
+
+Runtime --> Jb tk chlega hume env. milta h js se backend bnane ka
+
+npm init ---> package.json --> lekha jokha of project
+
+
+
+
