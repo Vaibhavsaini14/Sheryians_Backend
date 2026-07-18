@@ -1,0 +1,20 @@
+{
+  "name": "sheryians_backend",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "homepage": "https://github.com/Vaibhavsaini14/Sheryians_Backend#readme",
+  "bugs": {
+    "url": "https://github.com/Vaibhavsaini14/Sheryians_Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vaibhavsaini14/Sheryians_Backend.git"
+  },
+  "license": "ISC",
+  "author": "Vaibhav Saini",
+  "type": "commonjs",
+  "main": "02_Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
