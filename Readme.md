@@ -52,9 +52,9 @@ Sheryians_Backend/
 | Lecture | Topic | Status |
 |----------|-------|--------|
 | 01 | JavaScript Fundamentals | ✅ |
-| 02 | Node.js | ⏳ |
-| 03 | Modules | ⏳ |
-| 04 | npm | ⏳ |
+| 02 | Node.js | ✅ |
+| 03 | Modules | ✅ |
+| 04 | npm | ✅ |
 | 05 | Express.js | ⏳ |
 | ... | ... | ... |
 
