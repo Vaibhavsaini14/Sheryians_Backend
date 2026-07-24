@@ -1,0 +1,19 @@
+Express Js ek npm package hai
+Express is framework --> 
+Meaning of Framework ---->> ek process ya flow koi code ya work ko krne ke liye & usme individuality aap khud ki le skte ho 
+
+In React , we only get tools not the prcoess for how to do it (kuch bhi banao kro jesa man kree)
+
+ It Manages all tasks in b/w receving request and giving response
+ * ex:- Image bnake do ,  video bhejna etc. and from accepting till response kya gya all is "expressjs"
+ * data ka process krna usse result nikalna
+ * Blob ko json m convert krna 
+ * database ko server se connect krna
+
+ 
+
+
+
+
+
+
