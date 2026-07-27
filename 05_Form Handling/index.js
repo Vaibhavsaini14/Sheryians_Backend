@@ -11,7 +11,7 @@ const app = express()
 app.use(express.json());  // these both are middlewares
 app.use(express.urlencoded({extended : true}));
 
-// Ye dono plain text se jo user se aaya jo trnasmission ke time blob(not readable data ) m converted hai usko vapis se readable bnane m help krte haii
+// Ye dono plain text se jo user se aaya jo transmission ke time blob(not readable data ) m converted hai usko vapis se readable bnane m help krte haii
 
 // json format to normal  ke liye 1st wala
 // for ejs and other forms 2nd wala 
