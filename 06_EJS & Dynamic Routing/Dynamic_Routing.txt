@@ -1,0 +1,11 @@
+Jin routes m kuch specific part hi change hota h aage k same rehta haii --->
+/author/harsh
+/author/harshita/
+/author/vaibhav
+
+Steps to follow --->
+1. Sbse pehle Browser pr jao
+2. url likho apna jo apko chahiye & click enter
+3. ab uss url ko create kriye
+4. response bhejiye kuch bhi
+5. Agr issi same url ko agr dynamic banana h toh realise kro konsa part dynamic h aur uss part ke aage route m : lagado
