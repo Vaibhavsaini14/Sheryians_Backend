@@ -1,5 +1,4 @@
 import express from 'express'
-
 const app = express()
 
 //Backend process ko handle krta hai & also handle data coming from any library , framework etc.
