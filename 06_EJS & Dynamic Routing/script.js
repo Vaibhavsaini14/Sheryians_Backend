@@ -8,7 +8,6 @@ app.use(express.urlencoded({extended : true}));
 //     res.send("Chal rha hai");
 // })
 
-
 //**2nd. setting up EJS for ejs pages ----->
 // 1. install ejs from npm
 // 2. setup ejs as a view engine
@@ -40,6 +39,4 @@ app.get("/author/:username/:age", function(req , res){
 app.listen(3000, () => {
   console.log('Server is running on http://localhost:3000')
 })
-
-
 
