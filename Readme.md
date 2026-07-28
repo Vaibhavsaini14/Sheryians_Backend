@@ -20,10 +20,10 @@ Sheryians_Backend/
 │
 ├── 01_JS_Fundamentals/
 ├── 02_NodeJS/
-├── 03_Modules/
-├── 04_NPM/
-├── 05_Express/
-├── ...
+├── 03_Modules & NPM/
+├── 04_ExpressJs/
+├── 05_Form Handling/
+├── 06_EJS & Dynamic Routing/
 └── README.md
 ```
 
@@ -53,10 +53,10 @@ Sheryians_Backend/
 |----------|-------|--------|
 | 01 | JavaScript Fundamentals | ✅ |
 | 02 | Node.js | ✅ |
-| 03 | Modules | ✅ |
-| 04 | npm | ✅ |
-| 05 | Express.js | ⏳ |
-| ... | ... | ... |
+| 03 | Modules & npm  | ✅ |
+| 04 | Express.js| ✅ |
+| 05 | Form Handling | ✅ |
+| 06 | EJS & Dynamic Routing | ✅ |
 
 ---
 
