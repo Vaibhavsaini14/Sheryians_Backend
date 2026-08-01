@@ -24,7 +24,9 @@ Sheryians_Backend/
 ├── 04_ExpressJs/
 ├── 05_Form Handling/
 ├── 06_EJS & Dynamic Routing/
-└── README.md
+|── 07_08_09 Practice by Project/
+|── 10_MongoDB
+README.md
 ```
 
 ---
@@ -57,7 +59,7 @@ Sheryians_Backend/
 | 04 | Express.js| ✅ |
 | 05 | Form Handling | ✅ |
 | 06 | EJS & Dynamic Routing | ✅ |
-
+| 07_08_09 | Hands-on practice with project | ✅ |
 ---
 
 # 🎯 Goal
