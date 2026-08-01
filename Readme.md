@@ -62,17 +62,6 @@ README.md
 | 07_08_09 | Hands-on practice with project | ✅ |
 ---
 
-# 🎯 Goal
-
-- Learn Backend Development
-- Master Node.js
-- Build REST APIs
-- Learn MongoDB
-- Build real-world backend projects
-- Become internship ready
-
----
-
 # ⭐ Repository Purpose
 
 This repository serves as my personal backend learning notebook.
