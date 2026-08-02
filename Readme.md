@@ -26,6 +26,7 @@ Sheryians_Backend/
 ├── 06_EJS & Dynamic Routing/
 |── 07_08_09 Practice by Project/
 |── 10_MongoDB theory & terminologies
+|── 11_CRUD Operations with MongoDB
 README.md
 ```
 
@@ -61,6 +62,7 @@ README.md
 | 06 | EJS & Dynamic Routing | ✅ |
 | 07_08_09 | Hands-on practice with project | ✅ |
 | 10 | MongoDB theory & terminologies | ✅ |
+| 11 | CRUD Operations & usermodel Knowledge | ✅ |
 ---
 
 # ⭐ Repository Purpose
