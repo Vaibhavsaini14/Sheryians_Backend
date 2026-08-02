@@ -25,7 +25,7 @@ Sheryians_Backend/
 ├── 05_Form Handling/
 ├── 06_EJS & Dynamic Routing/
 |── 07_08_09 Practice by Project/
-|── 10_MongoDB
+|── 10_MongoDB theory & terminologies
 README.md
 ```
 
@@ -60,6 +60,7 @@ README.md
 | 05 | Form Handling | ✅ |
 | 06 | EJS & Dynamic Routing | ✅ |
 | 07_08_09 | Hands-on practice with project | ✅ |
+| 10 | MongoDB theory & terminologies | ✅ |
 ---
 
 # ⭐ Repository Purpose
