@@ -1,0 +1,25 @@
+Data storage ---->
+    Jaha pr users ki info store kr skte hai    
+    Types of DB--> SQL | NoSQL
+
+NoSQl (Objects ke form me data rakha jata hai) --> MongoDB    
+
+Why ? --> Data store krne ke liye (all types ka)
+
+Terminologies --->
+
+Databse -> Collections (diff types of data jo ek database se belong krta hai) ex:- users data , sales data , products data etc.
+ 
+Collections--> Bohot sare users m se ek ka data dhundhna that's called "Document"
+
+Code written                   What haapens in Database
+--------------------------------------------------------------------
+
+1. mongoose.connect       -->       database create
+2. model create           -->       collection create
+3. CREATE                 -->       document create  
+
+
+
+
+       
