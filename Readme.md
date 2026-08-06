@@ -64,7 +64,7 @@ README.md
 | 07_08_09 | Hands-on practice with project | ✅ |
 | 10 | MongoDB theory & terminologies | ✅ |
 | 11 | CRUD Operations & usermodel Knowledge | ✅ |
-| 11 | CRUD Operations with Ejs & SSR | ✅ |
+| 12_13 | CRUD Operations with Ejs & SSR | ✅ |
 ---
 
 # ⭐ Repository Purpose
