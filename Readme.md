@@ -28,6 +28,7 @@ Sheryians_Backend/
 |── 10_MongoDB theory & terminologies
 |── 11_CRUD Operations with MongoDB
 |── 12_13_CRUD Operations with Ejs and SSR
+|── 14_Authentication_Auth.| Bcrypt | jwt
 README.md
 ```
 
@@ -65,6 +66,7 @@ README.md
 | 10 | MongoDB theory & terminologies | ✅ |
 | 11 | CRUD Operations & usermodel Knowledge | ✅ |
 | 12_13 | CRUD Operations with Ejs & SSR | ✅ |
+| 14 | Auth. & authorization with cookies , encryption and jwt | ✅ |
 ---
 
 # ⭐ Repository Purpose
