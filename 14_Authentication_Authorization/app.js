@@ -41,7 +41,4 @@ app.get("/read" , function(req , res){
     console.log(data);
     
 })
-
-
-
 app.listen(3000); 
