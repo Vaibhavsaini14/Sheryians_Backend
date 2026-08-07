@@ -1,0 +1,7 @@
+Authentication ---> User ki identity ko check krna usse website m enter hone dene se phle
+Authorized  ----> Vo user jiske pass admin rights ho (jo profile m changes kr ske jaake )
+
+Server ye yaad nhi rkhta ki user kon tha hr baar every tasks ke liye vo password and details mangta h that can be frustating that where session & cookies help it to remember user
+** 1. Cookie kaise set krte h
+** 2. bcrypt kais use krte h for pass encryption & decryption
+** 3. What is Jwt & usme data kaise store hota h 
