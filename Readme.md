@@ -29,6 +29,7 @@ Sheryians_Backend/
 |── 11_CRUD Operations with MongoDB
 |── 12_13_CRUD Operations with Ejs and SSR
 |── 14_Authentication_Auth.| Bcrypt | jwt
+|── 14_Authentication_Auth. Part-II
 README.md
 ```
 
@@ -67,6 +68,7 @@ README.md
 | 11 | CRUD Operations & usermodel Knowledge | ✅ |
 | 12_13 | CRUD Operations with Ejs & SSR | ✅ |
 | 14 | Auth. & authorization with cookies , encryption and jwt | ✅ |
+| 14 | Auth. & authorization via Login logout | ✅ |
 ---
 
 # ⭐ Repository Purpose
